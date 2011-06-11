@@ -17,7 +17,7 @@ end
 superhash = SuperclassHash.new
 superhash[A] = "a"
 superhash[A] # => "a"
-superhash[B] # => "b"
+superhash[B] # => "a"
 ```
 
 
