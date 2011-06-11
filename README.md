@@ -1,4 +1,4 @@
-#SuperclassHash ![Build Status](http://travis-ci.org/piotrj/superclass_hash.png)](http://travis-ci.org/piotr/superclass_hash)
+#SuperclassHash ![Build Status](http://travis-ci.org/piotrj/superclass_hash.png)
 
 SuperclassHash is a hash that you could use if you are storing
 values under class keys. If hash does not have particular class key
