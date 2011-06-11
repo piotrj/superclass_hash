@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Piotr Jakubowski"]
   s.email       = ["piotrj@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/piotrj/superclass_hash"
+  s.summary     = %q{Hash useful for class keys}
+  s.description = %q{Hash that would return values that has been assigned to keys that are superclasses of asked key}
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
